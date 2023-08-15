@@ -2,7 +2,7 @@
     "name": "baghaee/jalali",
     "description": "Jalali function",
     "type": "library",
-    "license": "BSD 3-Clause License",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Baghaee\\Jalali\\": "src/"
